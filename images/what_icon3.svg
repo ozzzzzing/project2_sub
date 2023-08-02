@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="106" height="106" viewBox="0 0 106 106">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #204b84;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #fff;
+        stroke-width: 3px;
+      }
+    </style>
+  </defs>
+  <g id="그룹_242" data-name="그룹 242" transform="translate(-1072 -4188)">
+    <circle id="타원_38" data-name="타원 38" class="cls-1" cx="53" cy="53" r="53" transform="translate(1072 4188)"/>
+    <g id="react-svgrepo-com" transform="translate(1095.603 4213.538)">
+      <path id="패스_137" data-name="패스 137" class="cls-2" d="M57.721,16.846c0,6.772-12.809,12.262-28.611,12.262S.5,23.618.5,16.846,13.309,4.584,29.111,4.584,57.721,10.074,57.721,16.846Z" transform="translate(0 10.25)"/>
+      <path id="패스_138" data-name="패스 138" class="cls-2" d="M7,52.253c5.955,3.226,16.883-5.423,24.409-19.317s8.8-27.772,2.846-31S17.37,7.362,9.844,21.255,1.044,49.027,7,52.253Z" transform="translate(8.485 0)"/>
+      <path id="패스_139" data-name="패스 139" class="cls-2" d="M34.253,52.253C28.3,55.478,17.37,46.83,9.844,32.936S1.044,5.164,7,1.939,23.881,7.362,31.407,21.255,40.207,49.027,34.253,52.253Z" transform="translate(8.485 0)"/>
+      <path id="패스_140" data-name="패스 140" class="cls-2" d="M6.5,10.671a4.087,4.087,0,1,0,4.087-4.087A4.087,4.087,0,0,0,6.5,10.671Z" transform="translate(18.523 16.424)"/>
+    </g>
+  </g>
+</svg>

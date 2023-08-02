@@ -1,0 +1,99 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="320" height="1140" viewBox="0 0 320 1140">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: #106aca;
+        font-size: 19px;
+      }
+
+      .cls-2, .cls-4 {
+        font-family: NotoSansKR-Bold, Noto Sans KR;
+        font-weight: 700;
+      }
+
+      .cls-3 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-4, .cls-5 {
+        fill: #202020;
+        font-size: 15px;
+      }
+
+      .cls-5 {
+        font-family: NotoSansKR-Regular, Noto Sans KR;
+      }
+
+      .cls-6 {
+        font-size: 11px;
+      }
+
+      .cls-7 {
+        font-size: 3px;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#569ae2"/>
+      <stop offset="0.653" stop-color="#0e59ab"/>
+      <stop offset="1" stop-color="#083565"/>
+    </linearGradient>
+  </defs>
+  <g id="그룹_192" data-name="그룹 192" transform="translate(0 -3071)">
+    <rect id="사각형_224" data-name="사각형 224" class="cls-1" width="320" height="1140" transform="translate(0 3071)"/>
+    <text id="_01월차" data-name="01월차" class="cls-2" transform="translate(47 3206)"><tspan x="-28.671" y="0">01월차</tspan></text>
+    <text id="_02월차" data-name="02월차" class="cls-2" transform="translate(47 3320)"><tspan x="-28.671" y="0">02월차</tspan></text>
+    <text id="_03월차" data-name="03월차" class="cls-2" transform="translate(47 3435)"><tspan x="-28.671" y="0">03월차</tspan></text>
+    <text id="_04월차" data-name="04월차" class="cls-2" transform="translate(47 3550)"><tspan x="-28.671" y="0">04월차</tspan></text>
+    <text id="_05월차" data-name="05월차" class="cls-2" transform="translate(47 3746)"><tspan x="-28.671" y="0">05월차</tspan></text>
+    <text id="_06월차" data-name="06월차" class="cls-2" transform="translate(47 4090)"><tspan x="-28.671" y="0">06월차</tspan></text>
+    <text id="_07월차" data-name="07월차" class="cls-2" transform="translate(47 4198)"><tspan x="-28.671" y="0">07월차</tspan></text>
+    <rect id="사각형_223" data-name="사각형 223" class="cls-3" width="5" height="1140" rx="2.5" transform="translate(87 3071)"/>
+    <text id="정규교과" class="cls-4" transform="translate(130 3088)"><tspan x="-27.6" y="0">정규교과</tspan></text>
+    <text id="정규교과-2" data-name="정규교과" class="cls-4" transform="translate(130 3203)"><tspan x="-27.6" y="0">정규교과</tspan></text>
+    <text id="정규교과-3" data-name="정규교과" class="cls-4" transform="translate(130 3317)"><tspan x="-27.6" y="0">정규교과</tspan></text>
+    <text id="정규교과-4" data-name="정규교과" class="cls-4" transform="translate(130 3432)"><tspan x="-27.6" y="0">정규교과</tspan></text>
+    <text id="정규교과-5" data-name="정규교과" class="cls-4" transform="translate(130 3547)"><tspan x="-27.6" y="0">정규교과</tspan></text>
+    <text id="현장실무" class="cls-4" transform="translate(130 3743)"><tspan x="-27.6" y="0">현장실무</tspan></text>
+    <text id="프로젝트_Open_API_활용_" data-name="프로젝트(Open API 활용)" class="cls-4" transform="translate(102 4087)"><tspan x="0" y="0">프로젝트(Open API 활용)</tspan></text>
+    <text id="프로젝트_Open_API_활용_2" data-name="프로젝트(Open API 활용)" class="cls-4" transform="translate(102 3857)"><tspan x="0" y="0">프로젝트(Open API 활용)</tspan></text>
+    <text id="프로젝트_Open_API_활용_3" data-name="프로젝트(Open API 활용)" class="cls-4" transform="translate(185 3636)"><tspan x="-82.53" y="0">프로젝트(Open API 활용)</tspan></text>
+    <text id="_·_스마트문화앱_콘텐츠_설계_·_화면구현_·_반응형_웹구현" data-name="· 스마트문화앱 콘텐츠 설계
+· 화면구현
+· 반응형 웹구현" class="cls-5" transform="translate(102 3116)"><tspan x="0" y="0">· 스마트문화앱 콘텐츠 설계</tspan><tspan x="0" y="21">· 화면구현</tspan><tspan x="0" y="42">· 반응형 웹구현</tspan></text>
+    <text id="_·_스마트문화앱_UI디자인_·_반응형_웹구현_·_자바스크립트_제이쿼리" data-name="· 스마트문화앱 UI디자인
+· 반응형 웹구현
+· 자바스크립트&amp;제이쿼리" class="cls-5" transform="translate(102 3230)"><tspan x="0" y="0">· 스마트문화앱 UI디자인</tspan><tspan x="0" y="21">· 반응형 웹구현</tspan><tspan x="0" y="42">· 자바스크립트&amp;제이쿼리</tspan></text>
+    <text id="_·_스마트문화앱_UX설계_·_자바스크립트_제이쿼리_·OpenAPI_공공데이터_활용" data-name="· 스마트문화앱 UX설계
+· 자바스크립트&amp;제이쿼리
+·OpenAPI &amp; 공공데이터 활용" class="cls-5" transform="translate(102 3345)"><tspan x="0" y="0">· 스마트문화앱 UX설계</tspan><tspan x="0" y="21">· 자바스크립트&amp;제이쿼리</tspan><tspan x="0" y="42">·OpenAPI &amp; 공공데이터 활용</tspan></text>
+    <text id="_·_OpenAPI_공공데이터_활용_·_리액트_프레임워크_·_데이터베이스_" data-name="· OpenAPI &amp; 공공데이터 활용
+· 리액트 프레임워크
+· 데이터베이스 " class="cls-5" transform="translate(102 3460)"><tspan x="0" y="0">· OpenAPI &amp; 공공데이터 활용</tspan><tspan x="0" y="21">· 리액트 프레임워크</tspan><tspan x="0" y="42">· 데이터베이스 </tspan></text>
+    <text id="_·_데이터베이스_·_하이브리드앱_개발" data-name="· 데이터베이스
+· 하이브리드앱 개발" class="cls-5" transform="translate(102 3575)"><tspan x="0" y="0">· 데이터베이스</tspan><tspan x="0" y="21">· 하이브리드앱 개발</tspan></text>
+    <text id="_·_Open_API_기술_적용_사례_분석_·_프로젝트_수행_작업_결과물_실제고객니즈기반_" data-name="· Open API 기술 적용 사례 분석
+· 프로젝트 수행/작업 결과물
+   (실제고객니즈기반)" class="cls-5" transform="translate(102 3771)"><tspan x="0" y="0">· Open API 기술 적용 사례 분석</tspan><tspan x="0" y="21">· 프로젝트 수행/작업 결과물</tspan><tspan x="0" y="42" xml:space="preserve">   (실제고객니즈기반)</tspan></text>
+    <text id="_·_반응형_웹앱_SNS_연동_회원_관리_시스템_개발_REST_API_반응형_웹앱_PHP_Mysql_" data-name="· 반응형 웹앱 SNS 연동 회원
+   관리 시스템 개발
+    (REST API, 반응형 웹앱, PHP, Mysql)" class="cls-5" transform="translate(102 4115)"><tspan x="0" y="0">· 반응형 웹앱 SNS 연동 회원</tspan><tspan x="0" y="21" xml:space="preserve">   관리 시스템 개발</tspan><tspan class="cls-6"><tspan x="0" y="38" xml:space="preserve">    (REST API, 반응형 웹앱, PHP, Mysql)</tspan></tspan></text>
+    <text id="_·_SNS_마케팅_자동화_스마트_웹앱_콘텐츠_개발_REST_API_MVC_디자인_패턴_React_·_GPS_인증_대구시민걷기_하이브리드_앱_개발_GPS_API_Node_js_React_·_반응형_웹앱_SNS_연동_회원_관리_시스템_개발_REST_API_반응형_웹앱_PHP_Mysql_" data-name="· SNS 마케팅 자동화 스마트
+   웹앱 콘텐츠 개발
+    (REST API, MVC 디자인 패턴, React)
+
+· GPS 인증 대구시민걷기 
+   하이브리드 앱 개발
+    (GPS API, Node js, React)
+
+· 반응형 웹앱 SNS 연동 회원
+   관리 시스템 개발
+    (REST API, 반응형 웹앱, PHP, Mysql)" class="cls-5" transform="translate(102 3884)"><tspan x="0" y="0">· SNS 마케팅 자동화 스마트</tspan><tspan x="0" y="21" xml:space="preserve">   웹앱 콘텐츠 개발</tspan><tspan class="cls-6"><tspan x="0" y="38" xml:space="preserve">    (REST API, MVC 디자인 패턴, React)</tspan></tspan><tspan class="cls-7"><tspan x="0" y="44"></tspan></tspan><tspan x="0" y="62">· GPS 인증 대구시민걷기 </tspan><tspan x="0" y="83" xml:space="preserve">   하이브리드 앱 개발</tspan><tspan class="cls-6"><tspan x="0" y="100" xml:space="preserve">    (GPS API, Node js, React)</tspan></tspan><tspan class="cls-7"><tspan x="0" y="106"></tspan></tspan><tspan x="0" y="124">· 반응형 웹앱 SNS 연동 회원</tspan><tspan x="0" y="145" xml:space="preserve">   관리 시스템 개발</tspan><tspan class="cls-6"><tspan x="0" y="162" xml:space="preserve">    (REST API, 반응형 웹앱, PHP, Mysql)</tspan></tspan></text>
+    <text id="_·_SNS_마케팅_자동화_스마트_웹앱_콘텐츠_개발_REST_API_MVC_디자인_패턴_React_" data-name="· SNS 마케팅 자동화 스마트 
+   웹앱 콘텐츠 개발
+    (REST API, MVC 디자인 패턴, React)" class="cls-5" transform="translate(102 3664)"><tspan x="0" y="0">· SNS 마케팅 자동화 스마트 </tspan><tspan x="0" y="21" xml:space="preserve">   웹앱 콘텐츠 개발</tspan><tspan class="cls-6"><tspan x="0" y="38" xml:space="preserve">    (REST API, MVC 디자인 패턴, React)</tspan></tspan></text>
+  </g>
+</svg>
